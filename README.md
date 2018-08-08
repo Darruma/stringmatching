@@ -1,2 +1,2 @@
 # stringmatching
-String matching algorithms implemented in python
+String matching algorithms implemented in python and c
